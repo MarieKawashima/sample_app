@@ -1,4 +1,5 @@
-# Ruby on Rails チュートリアル：学習用サンプルアプリケーション
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
-これは、以下のためのサンプルアプリケーションです。
-[*侍エンジニア塾*](http://www.sejuku.net/)
+This is the first application for the
+[*Ruby on Rails*](http://rubyonrails.org/)
+by [Samurai Engineer Juku](http://www.sejuku.net/).
